@@ -1,5 +1,6 @@
-C:/production/instructions/:
+instructions:
   file.recurse:
-    - source: salt://instructions/
+    - name: /home/vagrant/instructions
+    - source: salt://instructions
     - makedirs: True
-    - clean: False
+    - clean: True
