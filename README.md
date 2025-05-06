@@ -8,10 +8,6 @@ Alla on kuvat lopputuloksesta, joissa näkyy masterin ja slaven hakemistot.
 
 ![image](https://github.com/user-attachments/assets/535a18ad-97f4-450b-91e9-c6d70e833bbd)
 
-## Miniprojektin lataus
-
-    git clone https://github.com/kayttaja/miniprojekti-instructions.git
-
 ## Käyttöönotto
 
 Alla olevassa osoitteessa on tarkka raportti tämän miniprojektin käyttöönotosta.
